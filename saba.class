@@ -2,5 +2,6 @@ class saba{
 
 	public static void main(String[] args){
 	system.out.println("This is a fiest class file");
+	system.out.println("Hare Krishna Hare Rama");
 }
 }
